@@ -1,4 +1,6 @@
-### Hi there 👋
+Mathematics for Misfits is a book of math problems about 'taboo' subjects.  The book is available through the bookstores listed in the linktree profile link below.
+
+The book was written entirely in LaTeX, except the front/back cover.  I am porting it to an accessible friendly e-book, and created the [Accessible Mathematics](https://github.com/mathematicsformisfits/accessiblemath) project page to catalog the tools I've discovered.
 
 <!--
 **mathematicsformisfits/mathematicsformisfits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
